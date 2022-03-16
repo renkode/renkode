@@ -1,4 +1,4 @@
-<h3>☕ Hey there, call me Ren (or Renko)!</h3>
+<h3>☕ Hey there, call me Ren!</h3>
 
 Frontend developer, dark mode dweller, and UI/UX enthusiast, I'm a freelance illustrator who stumbled into web development and was surprised to learn that I enjoy it, almost too much. Now I aspire to collaborate on products and contribute to open-source projects that will have a meaningful impact.
 
@@ -7,7 +7,7 @@ Check out my latest project, [Zardle](https://zardle.pages.dev/)!
 - Primarily using ES6+/Typescript/React/Sass
 - Interested in learning UI/UX design, Vue.js, and CSS libraries/frameworks
 - Pronouns: she/her
-- Also doing game development as a hobby and wish to bring my original ideas to life!
+- Also doing game development as a hobby and hope to bring my original ideas to life!
 
 
 <!--
