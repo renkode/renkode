@@ -4,7 +4,7 @@ Frontend developer, dark mode dweller, and UI/UX enthusiast, I'm a freelance ill
 
 Check out my latest project, [Zardle](https://zardle.pages.dev/)!
 
-- Primarily using React/Sass/ES6/Typescript
+- Primarily using ES6+/Typescript/React/Sass
 - Interested in learning UI/UX design, Vue.js, and CSS libraries/frameworks
 - Pronouns: she/her
 - Also doing game development as a hobby and wish to bring my original ideas to life!
