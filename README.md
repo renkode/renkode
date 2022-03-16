@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3>☕ Hey there, call me Ren (or Renko)!</h3>
+
+Frontend developer, dark mode dweller, and UI/UX enthusiast, I'm a freelance illustrator who stumbled into web development and was surprised to learn that I enjoy it, almost too much. Now I aspire to collaborate on products and contribute to open-source projects that will have a meaningful impact.
+
+Check out my latest project, [Zardle](https://zardle.pages.dev/)!
+
+- Primarily using React/Sass/ES6/Typescript
+- Interested in learning UI/UX design, Vue.js, and CSS libraries/frameworks
+- Pronouns: she/her
+- Also doing game development as a hobby and wish to bring my original ideas to life!
+
 
 <!--
 **renkode/renkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
