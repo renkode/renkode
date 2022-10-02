@@ -1,13 +1,13 @@
 <h3>☕ Hey there, call me Ren!</h3>
 
-Frontend developer, dark mode dweller, and UI/UX enthusiast, I'm a freelance illustrator who stumbled into web development and was surprised to learn that I enjoy it, almost too much. Now I aspire to collaborate on products and contribute to open-source projects that will have a meaningful impact.
+I'm an illustrator and newbie developer who stumbled into frontend and was surprised to learn that it's super fun. Also doing game development as a hobby and hope to bring my original ideas to life!
 
 Check out my latest project, [Zardle](https://zardle.pages.dev/)!
 
-- Primarily using ES6+/Typescript/React/Sass
-- Interested in learning UI/UX design, Vue.js, and CSS libraries/frameworks
-- Pronouns: she/her
-- Also doing game development as a hobby and hope to bring my original ideas to life!
+- Primarily using ES6+/Typescript/React/SCSS
+- Interested in learning UI/UX design, accessibility, Vue.js, and responsive design
+- Pronouns: she/they
+- Hobbies: Game dev, art, jigsaw puzzles
 
 
 <!--
