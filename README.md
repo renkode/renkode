@@ -2,7 +2,7 @@
 
 I'm an illustrator and newbie developer who stumbled into frontend and was surprised to learn that it's super fun. Also doing game development as a hobby and hope to bring my original ideas to life!
 
-Check out my latest project, [Zardle](https://zardle.pages.dev/)!
+Check out my latest projects, [Chitter](https://chitterapp.netlify.app/home) and [Zardle](https://zardle.pages.dev/)!
 
 - Primarily using ES6+/Typescript/React/SCSS
 - Interested in learning UI/UX design, accessibility, Vue.js, and responsive design
