@@ -2,7 +2,7 @@
 
 I'm an illustrator and frontend developer who likes jigsaw puzzles. Also doing game development as a hobby and hope to bring my original ideas to life.
 
-Check out my latest projects, [Chitter](https://chitterapp.netlify.app/home) and [Zardle](https://zardle.pages.dev/)!
+Check out my latest projects, [Chitter](https://chitterapp.netlify.app/) and [Zardle](https://zardle.pages.dev/)!
 
 - Primarily using ES6+/Typescript/React/Vue/SCSS
 - Currently interested in learning UI/UX design and accessibility
